@@ -1,0 +1,29 @@
+*{margin:0%;
+padding:0%;
+box-sizing:border-box;
+}
+body{
+align-items: center;
+
+
+}
+.man
+{clip-path: polygon();
+    border-radius: 50%;
+height: 200;
+width: 200;
+display: block;
+margin: auto;
+}
+div{background-color: #A28B55 ;
+height:150 ;
+}
+.divb{color:#31363F ;}
+h1{ text-align-last:center;  text-shadow: 2px 2px;}
+h2{text-align-last:center;}
+p{background-color: #E4E0E1;color:#1A1A19; }
+h3{text-align-last:left ;}
+button{
+  background-color:#E4E0E1;
+}
+ .div3{background-color: #A28B55;}
